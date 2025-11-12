@@ -1,11 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hichandan01.hichandan01" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=500&color=F1C40F&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Chandan+Kumar;Backend+%26+Cloud+Developer+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=4000&pause=500&color=F1C40F&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Chandan+Kumar+🚀" alt="Typing SVG" />
 </h3>
 
 <div align="center">
-  <h3>💻 Full Stack Developer | AWS & Cloud Enthusiast ☁️</h3>
+  <h3>💻 Full Stack Developer | Backend-Focused | AWS & Cloud Enthusiast ☁️</h3>
   <br/>
   
   <a href="https://www.linkedin.com/in/hichandan317/" target="_blank">
