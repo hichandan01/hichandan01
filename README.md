@@ -27,5 +27,5 @@
 
 </div>
 
- <h3 align="center">All My Personal Portfolio - https://portfolio-one-taupe-21.vercel.app/</h3>
- <h3 align="center">All My Personal Projects are in - https://www.github.com/hi-chandan</h3>
+ <h3 align="center">All My Personal Portfolio - https://hichandan.dev</h3>
+ <h3 align="center">All My Personal Projects are in - https://www.github.com/hichandan01</h3>
