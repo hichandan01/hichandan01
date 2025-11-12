@@ -5,7 +5,7 @@
 </h3>
 
 <div align="center">
-  <h3>💻 Full Stack Developer | Backend-Focused | AWS & Cloud Enthusiast ☁️</h3>
+  <h3>💻 Full Stack Developer | AWS & Cloud Enthusiast ☁️</h3>
   <br/>
   
   <a href="https://www.linkedin.com/in/hichandan317/" target="_blank">
@@ -23,7 +23,7 @@
   <h3 align="center">⚙️ Skills & Technologies ⚙️</h3>
 
   <div align="center"><br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,git,github" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,git,github" />
     <br/>
     <img src="https://skillicons.dev/icons?i=nodejs,express,aws,postgresql,mongodb,prisma,vscode" />
   </div>
