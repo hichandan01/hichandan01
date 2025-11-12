@@ -43,7 +43,7 @@
   <h3 align="center">🧩 Featured Projects</h3>
 
   - 🏋️‍♂️ **Athlete Vision** — Full Stack app with Node.js, AWS, Stripe & Chargebee for payments and subscriptions  
-  - ⚙️ **Ace-Engine** — Cloud compliance automation platform using AWS and Node.js  
+  - ⚙️ **Symetri** — Cloud compliance automation platform using AWS and Node.js  
   - 🕍 **Historical Gurudwara** — Admin dashboard for managing Gurudwaras (React + Node.js + MongoDB)  
   - 💬 **Realtime Chat App** — Chat application using Next.js, Node.js & Socket.IO for live communication  
 
